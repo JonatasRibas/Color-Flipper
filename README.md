@@ -1,2 +1,2 @@
-# Color-Flipper
-Treinando JavaScript
+# Color-Flipper 
+Treinando JavaScript 👨‍💻🍕
